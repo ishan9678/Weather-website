@@ -11,7 +11,6 @@ let weather = {
         const {icon,text} = data.current.condition;
         const {temp_c,humidity} = data.current;
         const {wind_kph,precip_mm} = data.current;
-        console.log(name,icon,text,temp_c,humidity,precip_mm,wind_kph);
         document.querySelector("h2").innerHTML="Weather in " + name; 
         document.querySelector("h1").innerHTML= temp_c + "°C"; 
         document.querySelector("img").src = icon; 
