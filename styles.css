@@ -70,6 +70,38 @@ input.search-bar{
     visibility: hidden;
 }
 
+.day{
+    text-align: center;
+}
+
+.slide{
+    margin-bottom: 20px;
+}
+
+.carousel-control-prev-icon {
+    margin-left: -15px;
+    width: 15px;
+}
 
 
+.carousel-control-next-icon{
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    width: 15px;
+    background-size: 100% 100%;
+    margin-right: 10px;
+}
 
+#carouselExample{
+    width: 50%;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-left: -10px;
+}
