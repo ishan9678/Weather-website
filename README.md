@@ -1,5 +1,5 @@
 # Weather-website
-Creating a website to display weather information from all over the world with a search functionality capable of autocomplete. 
+A Website to display weather information from all over the world with a search functionality capable of autocomplete. 
 It is implemented using weather api.
 
 https://ishan9678.github.io/Weather-website/
