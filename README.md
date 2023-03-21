@@ -5,7 +5,6 @@ It is implemented using weather api.
 
 
 Try out the website below - 👇👇👇
-                           
                            https://ishan9678.github.io/Weather-website/
 
 ![image](https://user-images.githubusercontent.com/96326613/226525105-4c6d6c37-a1d6-4af8-af31-1b3cfae2ce7e.png)
